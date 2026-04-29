@@ -6,8 +6,6 @@ import OrderStatus from "../components/order/OrderStatus";
 import Navbar from "../components/common/Navbar";
 import Loader from "../components/common/Loader";
 
-const STATUS_SEQUENCE = ["RECEIVED", "PREPARING", "OUT_FOR_DELIVERY", "DELIVERED"];
-
 const ETA: Record<string, string> = {
   RECEIVED: "Estimated 30–40 min",
   PREPARING: "Estimated 20–30 min",
