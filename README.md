@@ -1,6 +1,6 @@
-# RaftLabs Food Delivery App 🍔🚀
+# RaftLabs Order Management App
 
-A modern, responsive, and real-time food delivery application featuring a customer-facing menu, guest checkout, real-time order tracking, and a secure admin dashboard for order management.
+A modern, responsive, and real-time order Management application featuring a customer-facing menu, guest checkout, real-time order tracking, and a secure admin dashboard for order management.
 
 ## Features
 
