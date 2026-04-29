@@ -19,7 +19,7 @@ const startServer = async () => {
         initSocketServer(server);
 
         server.listen(env.PORT, () => {
-            console.log(`Server running on port ${env.PORT}`);
+            console.log(`Server running on port ${env.PORT }`);
         });
     } catch (error) {
         console.error("Server failed to start", error);
